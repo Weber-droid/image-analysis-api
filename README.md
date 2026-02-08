@@ -110,5 +110,5 @@ image-analysis-api/
 ├── uploads/            # Local storage for uploaded images
 ├── Dockerfile          # Container definition
 ├── requirements.txt    # Python dependencies
-└── README.md           # Documentation
+└── README.md           # Documentation.
 ```
